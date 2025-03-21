@@ -3,14 +3,15 @@
 #include <PubSubClient.h>
 #include <DHT.h>
 #include <ArduinoJson.h>
+#include "config.h"
 
 // Pin Definitions
 #define DHTPIN 4     // DHT11 data pin connected to GPIO 4
 #define DHTTYPE DHT11
 
 // WiFi credentials
-const char* ssid = "WirelessNet";
-const char* password = "DBSB3272 GLOBEABB";  // Replace with your actual password
+const char* ssid = WIFI_SSID;
+const char* password = WIFI_PASSWORD;  // Replace with your actual password
 
 // MQTT Broker settings
 const char* mqtt_server = "10.192.12.29";
