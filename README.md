@@ -38,8 +38,8 @@ This project involves using an ESP32 microcontroller to read temperature and hum
    Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/tashakid/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/tashakid/esp32_dht11.git
+   cd esp32_dht11
    ```
 
 2. **Install Required Libraries**:
