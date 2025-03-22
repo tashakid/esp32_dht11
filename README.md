@@ -59,7 +59,7 @@ This project involves using an ESP32 microcontroller to read temperature and hum
    ```cpp
    #define WIFI_SSID "Your_SSID"
    #define WIFI_PASSWORD "Your_Password"
-   #define API_ENDPOINT "http://10.192.12.29:8000/"
+   #define API_ENDPOINT "URL endpoint"
    ```
 
 4. **Build and Upload the Code**:
