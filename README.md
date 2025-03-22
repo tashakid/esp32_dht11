@@ -1,7 +1,7 @@
 # ESP32 DHT11 Sensor with LCD Display
 
-![Wiring Diagram](wiring.jpeg)
-![Display Showcase](display_showcase.png)
+![Wiring Diagram](images/wiring.jpeg)
+![Display Showcase](images/display_showcase.png)
 
 ## Overview
 This project involves using an ESP32 microcontroller to read temperature and humidity data from a DHT11 sensor. The data is sent to a specified server endpoint, and commands can be received to display messages on an I2C LCD.

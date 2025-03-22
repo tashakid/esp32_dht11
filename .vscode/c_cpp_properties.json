@@ -10,7 +10,11 @@
             "includePath": [
                 "/home/tash/data2studioesp/include",
                 "/home/tash/data2studioesp/src",
+                "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src",
+                "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                 "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
+                "/home/tash/data2studioesp/.pio/libdeps/esp32-c3-devkitm-1/LiquidCrystal_I2C",
+                "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 "/home/tash/data2studioesp/.pio/libdeps/esp32-c3-devkitm-1/ArduinoJson/src",
                 "/home/tash/data2studioesp/.pio/libdeps/esp32-c3-devkitm-1/PubSubClient/src",
                 "/home/tash/data2studioesp/.pio/libdeps/esp32-c3-devkitm-1/DHT sensor library",
@@ -219,7 +223,6 @@
                 "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/Ethernet/src",
                 "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/FFat/src",
                 "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/FS/src",
-                "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src",
                 "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdate/src",
                 "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdateServer/src",
                 "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/I2S/src",
@@ -237,9 +240,7 @@
                 "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/USB/src",
                 "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                 "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
-                "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                 "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
-                "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 ""
             ],
             "browse": {
@@ -247,7 +248,11 @@
                 "path": [
                     "/home/tash/data2studioesp/include",
                     "/home/tash/data2studioesp/src",
+                    "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src",
+                    "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                     "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
+                    "/home/tash/data2studioesp/.pio/libdeps/esp32-c3-devkitm-1/LiquidCrystal_I2C",
+                    "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     "/home/tash/data2studioesp/.pio/libdeps/esp32-c3-devkitm-1/ArduinoJson/src",
                     "/home/tash/data2studioesp/.pio/libdeps/esp32-c3-devkitm-1/PubSubClient/src",
                     "/home/tash/data2studioesp/.pio/libdeps/esp32-c3-devkitm-1/DHT sensor library",
@@ -456,7 +461,6 @@
                     "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/Ethernet/src",
                     "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/FFat/src",
                     "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/FS/src",
-                    "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src",
                     "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdate/src",
                     "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdateServer/src",
                     "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/I2S/src",
@@ -474,9 +478,7 @@
                     "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/USB/src",
                     "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                     "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
-                    "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                     "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
-                    "/home/tash/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     ""
                 ]
             },
