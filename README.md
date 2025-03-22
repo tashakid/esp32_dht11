@@ -1,4 +1,4 @@
-# ESP32 DHT11 Sensor with LCD Display
+# ESP32 DHT11 Sensor And monitoring with a LCD Display
 
 ![Wiring Diagram](images/wiring.jpeg)
 ![Display Showcase](images/display_showcase.png)
